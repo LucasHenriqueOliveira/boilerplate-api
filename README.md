@@ -54,7 +54,7 @@ $ nest g resource {routes}
 ## Up the container
 
 ```bash
-$ docker-composer up
+$ docker-compose up
 ```
 
 ## Test

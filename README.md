@@ -51,6 +51,11 @@ $ npm run start:prod
 $ nest g resource {routes}
 ```
 
+## Up the container
+
+```bash
+$ docker-composer up
+```
 
 ## Test
 

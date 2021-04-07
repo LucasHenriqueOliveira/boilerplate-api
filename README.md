@@ -45,6 +45,13 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
+## Create a resource
+
+```bash
+$ nest g resource {routes}
+```
+
+
 ## Test
 
 ```bash

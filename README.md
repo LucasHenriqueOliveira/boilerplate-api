@@ -48,7 +48,7 @@ $ npm run start:prod
 ## Create a resource
 
 ```bash
-$ nest g resource {routes}
+$ nest g resource {$name}
 ```
 
 ## Up the container
